@@ -18,6 +18,7 @@ export default function Home() {
         />
         {/**Hero */}
         <Hero />
+        {/**Grid */}
         <Grid />
         <RecentProjects />
         <Client />
